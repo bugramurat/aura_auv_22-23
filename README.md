@@ -1,5 +1,8 @@
 # Aura AUV (2022 - 2023)
 
+<img align="center" alt="aura_auv_vehicle" src="/img/aura_auv_vehicle.jpg" width="300" />
+
+## Description
 - Developed the software algorithms of vehicle with **Python** on the **Raspberry Pi** and **Jetson NANO** control computers with **Linux** systems.
 
 - Made image enchanment for the underwater view with **OpenCV**.
@@ -14,6 +17,9 @@
 - Fully autonom movement
 
 - Fixation at calculated depth
+
+<img align="center" alt="circle_detection" src="/img/circle_detection.png" width="400" />
+<img align="center" alt="color_detection" src="/img/color_detection.png" width="400" />
 
 <br></br>
 *For further information: bugramurat4444@gmail.com*
